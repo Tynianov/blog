@@ -5,7 +5,7 @@ Django==2.2.11
 django-environ==0.4.5
 django-heroku==0.3.1
 django-mysql==3.5.0
-django-registration==2.4.1
+django-registration==3.1.2
 environ==1.0
 gunicorn==19.7.1
 mysqlclient==1.4.6
